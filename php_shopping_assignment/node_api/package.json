@@ -1,0 +1,12 @@
+{
+  "name": "php-assignment-express-api",
+  "version": "1.0.0",
+  "description": "Express REST API for PHP practical assignment",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
